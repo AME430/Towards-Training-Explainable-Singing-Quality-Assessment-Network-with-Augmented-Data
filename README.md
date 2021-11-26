@@ -9,9 +9,15 @@ These codes are for the paper -- Towards Training Explainable Singing Quality As
 
 # Requirement
 dill
+
 numpy
+
 librosa
+
 torch
+
 sklearn
+
 scipy
+
 wave
