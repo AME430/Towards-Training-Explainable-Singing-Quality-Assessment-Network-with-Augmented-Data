@@ -8,16 +8,10 @@ These codes are for the paper -- Towards Training Explainable Singing Quality As
 [multi_model](https://github.com/AME430/Towards-Training-Explainable-Singing-Quality-Assessment-Network-with-Augmented-Data/tree/master/multi_model "multi_model") is our multitask-framework. It can provide overall score and pitch score. The codes are similar as [model_for_augmented_method](https://github.com/AME430/Towards-Training-Explainable-Singing-Quality-Assessment-Network-with-Augmented-Data/tree/master/model_for_augmented_method "model_for_augmented_method") in addition to the structure of neural network.
 
 # Requirement
-dill
-
-numpy
-
-librosa
-
-torch
-
-sklearn
-
-scipy
-
-wave
+dill  
+numpy  
+librosa  
+torch  
+sklearn  
+scipy  
+wave  
