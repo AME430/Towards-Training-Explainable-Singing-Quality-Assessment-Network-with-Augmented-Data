@@ -1,5 +1,7 @@
 # Introduction
-These codes are for the paper -- Towards Training Explainable Singing Quality Assessment Network with Augmented Data
+These codes are for the paper -- Towards Training Explainable Singing Quality Assessment Network with Augmented Data  
+
+Jinhu Li, Chitralekha Gupta, and Haizhou Li, "Towards Training Explainable Singing Quality Assessment Network with Augmented Data", in Proceedings of APSIPA ASC 2021, Japan.
 
 [generate_allsamples](https://github.com/AME430/Towards-Training-Explainable-Singing-Quality-Assessment-Network-with-Augmented-Data/tree/master/generate_allsamples "generate_allsamples") is used for generating augmented data based on our Chinese(Databaker) and English(NHSS) Datasets. You can use it by running [bad_Chinese.py](https://github.com/AME430/Towards-Training-Explainable-Singing-Quality-Assessment-Network-with-Augmented-Data/blob/master/generate_allsamples/Chinese/bad_Chinese.py "bad_Chinese.py") or [bad_English.py](https://github.com/AME430/Towards-Training-Explainable-Singing-Quality-Assessment-Network-with-Augmented-Data/blob/master/generate_allsamples/English/bad_English.py "bad_English.py")
 
