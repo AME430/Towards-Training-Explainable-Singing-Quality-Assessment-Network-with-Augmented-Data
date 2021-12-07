@@ -7,13 +7,13 @@ Jinhu Li, Chitralekha Gupta, and Haizhou Li, "Towards Training Explainable Singi
 
 # Requirement
 
-dill
-numpy
-librosa
-torch
-sklearn
-scipy
-wave
+dill 
+numpy 
+librosa 
+torch 
+sklearn 
+scipy 
+wave 
 
 # Usage
 
